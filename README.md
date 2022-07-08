@@ -6,4 +6,4 @@
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lunandd&show_icons=true&theme=tokyonight)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunandd&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lunandd&theme=tokyonight)
